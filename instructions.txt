@@ -1,5 +1,0 @@
-How to remove all timestamps!!
-1. paste the test you want to clean into transcript.txt
-2. create a new terminal and run py remove_timestamps.py
-3. go to cleaned_transcript.txt to retrieve the cleaned transcript!
-
