@@ -1,0 +1,730 @@
+Welcome to the final lecture on
+0:09
+the theme of thought, consciousness, and intelligence.
+0:10
+This is a joint lecture and in the first video
+0:15
+I will lead us in an interdisciplinary enquiry
+0:19
+about what it entails for computers to be human-like.
+0:22
+Subsequently, Dr. Nick and Prof Vik
+0:27
+will present the overarching issues surrounding AI.
+0:30
+The goal of this is to guide us in sensemaking
+0:35
+and to consider the future of humans, of computers
+0:38
+and how intelligent we want these to be.
+0:42
+First up, let us begin with the question
+0:48
+“Does AI already have human-level intelligence?”
+0:52
+From our lectures so far, we have talked about cognition
+0:57
+how language is associated with cognition
+1:01
+the role of the human brain in enabling these
+1:04
+and the parallel with computers.
+1:06
+Remember that in the first lecture
+1:11
+we introduced the great mathematician Alan Turing
+1:13
+who asked a simple but very important question.
+1:17
+Do you remember what this is?
+1:22
+“Can machines think?”
+1:29
+This was the simple question that pushed
+1:31
+the world of computers to out-invent, push boundaries
+1:34
+and fast forward to today, we are now asking the question of
+1:39
+what AI is and can AI think.
+1:42
+It seems like Turing had a hunch that computers have intelligence
+1:45
+and that hunch looks to now be the reality.
+1:50
+But having created computers that can think, and if they can think like us
+1:55
+there is value for us to try and understand how they work.
+2:00
+According to Chen and colleagues in this article published in nature
+2:04
+finding answers for this requires a conceptual alignment
+2:09
+across the disciplines of philosophy
+2:13
+machine learning, linguistics, and cognitive science.
+2:15
+A way to do this is to adopt common frameworks
+2:20
+that bring together various disciplines
+2:23
+to study the nature of human language
+2:26
+and its reproducibility in machines.
+2:29
+With this in mind, at the end of this video
+2:34
+you should be able to assess the value of an interdisciplinary approach
+2:37
+in understanding the cognitive neuroscience of language.
+2:42
+Next, if LLMs are intelligent, can we engage in an interdisciplinary approach
+2:47
+and “scan” their brains?
+2:54
+Finally, we will return to consider and rethink
+2:57
+what is the criteria for intelligence
+3:00
+in connection with the next video about issues with human-like computers.
+3:03
+To begin, studying the cognitive neuroscience of language
+3:11
+requires an interdisciplinary effort
+3:15
+as the topics involved are cross-cutting in nature.
+3:17
+At the Institute of Language, Communication and the Brain
+3:22
+ILCB, for instance, research groups working on
+3:26
+understanding different aspects of language perception
+3:30
+come together to tackle the four key questions:
+3:33
+What are the origins of language in individuals and across species?
+3:37
+What are the cognitive, linguistics, and neural dynamics
+3:43
+that enable language and communication?
+3:46
+Can we quantify and model dynamic phenomena at different scales?
+3:49
+And, how to explain and remediate language
+3:54
+and communication dysfunctions?
+3:57
+Notice that we have gathered knowledge
+4:00
+of some of these questions in our earlier lectures!
+4:02
+So, how might we use this knowledge to come up with a framework
+4:06
+and gather an informed sense of what intelligence is about?
+4:10
+Let us consider a framework
+4:16
+that brings together the disciplines of our interest
+4:18
+namely linguistics, neuroanatomy, data science, and psychology.
+4:21
+What is common is that each of these disciplines
+4:27
+apply the scientific approach.
+4:30
+That is, individually, we care about the theories
+4:33
+that guide the scientific study of language
+4:36
+we conceptualise hypotheses to probe the accuracy of these theories
+4:39
+we develop systematic methods to test these hypotheses
+4:45
+such as through experimental methodology.
+4:49
+But for the disciplines to connect
+4:52
+it requires us to reflect on the disciplinary assumptions
+4:55
+and consider how these might change
+4:59
+when we put another discipline into the picture.
+5:02
+So, what are some of these assumptions?
+5:07
+Well, there are many of course
+5:11
+but at a broad level, linguistics considers language
+5:13
+as a unique cognitive capacity
+5:17
+and we have seen in our lectures
+5:20
+how language is something that is distinctively human.
+5:21
+In neuroanatomy, the cytoarchitecture of the brain
+5:25
+is distinct from region to region
+5:29
+and assumed to be the basis for cognitive capacities
+5:32
+with evidence showing that there are dedicated brain areas
+5:36
+and neural networks that serve language function.
+5:39
+Next, in Data Science, the observation
+5:43
+of statistical regularities in how language is used
+5:46
+puts forth the assumption of the brain as a predictive machine
+5:50
+much like modern day computers.
+5:54
+Last, but not least, in Psychology
+5:56
+we treat language as a cognitive function
+6:00
+that is part of a set of interdependent cognitive capacities
+6:03
+that culminates as intelligence and produces human behaviours.
+6:08
+As we go through these assumptions
+6:13
+do you visualize the overlaps in approaches
+6:16
+and how the convergence of these methods of thought
+6:18
+brings us to our current issue of interest
+6:21
+whether there can be human-like computers?
+6:24
+Let’s try to apply this interdisciplinary framework of assumptions
+6:27
+to try and understand how machines think.
+6:32
+Here, let’s take a look at the following news feature
+6:37
+on how does ChatGPT think.
+6:41
+According to Hutson, what researchers can do is to “reverse-engineer”
+6:43
+and so-call “scan the brains” of LLMs.
+6:48
+Here, “scanning brains of LLMs” is figurative because
+6:52
+as we saw in an earlier lecture
+6:57
+the physical architecture of computers is less complex than that of humans
+6:59
+and they can be taken apart with ease.
+7:04
+Though, just like there are multiple ways of studying human intelligence
+7:07
+through an interdisciplinary lens, such is also the case for machines.
+7:12
+Critically, when we apply an interdisciplinary framework to this
+7:18
+although LLMs do not have neuroanatomy so to speak
+7:22
+we can integrate linguistics, data science, and psychology
+7:26
+to assess how they think by designing experiments
+7:30
+that probe the linguistic behaviours of LLMs
+7:35
+track their frequency of occurrences
+7:38
+and how they evolve with newer models.
+7:40
+How do we test the linguistic behaviours of LLMs?
+7:46
+In simple terms, we can treat LLMs as human subjects
+7:49
+since they can speak our language.
+7:53
+We then ask specific questions that probe their thinking styles
+7:56
+and observe how they respond
+7:59
+or change when we ask subsequent questions.
+8:02
+Here, do you find the approach similar
+8:05
+to a concept we have encountered previously?
+8:08
+If you are thinking of language acquisition, you are on track
+8:14
+because a key question that Dr. Nick discussed then
+8:18
+was the extent that LLMs can learn language
+8:22
+and whether this is like language learning by children.
+8:25
+Here, see that the concept of language acquisition can be extended
+8:29
+to the case of machines
+8:35
+and the concept connects the various disciplines of interest
+8:36
+and their fundamental assumptions to understand machine cognition.
+8:41
+Let’s take a look at two examples of how this can be done.
+8:47
+The first example is chain of thought
+8:53
+where if the chatbot is asked to lay out and explain
+8:55
+how they arrive at an answer
+8:59
+they tend to be more reliable
+9:01
+although this vary from one AI model to another
+9:04
+and we also need to take into account
+9:08
+the build versions as AI models are constantly improved.
+9:10
+On the left, when a standard prompting
+9:16
+without asking the chatbot to explain the steps
+9:18
+it is more likely to produce biased answers
+9:21
+because large language models may not be able to sense that
+9:24
+the context of the scenario requires
+9:29
+the problem to be solved through sub-steps.
+9:31
+Therefore, it attempts to solve the puzzles in a single step
+9:35
+and may pick up only certain numbers that are more frequently encountered
+9:39
+through its training data and then hallucinate an answer.
+9:43
+On the right, when the chatbot is asked to reason and explain its steps
+9:48
+it has no problem deriving the correct answer.
+9:52
+Such a revelation shows that it is not really
+9:57
+whether chatbots are able to solve math problems
+10:00
+but how it goes about reasoning the problem to figure a solution.
+10:04
+Even for us humans we make mistakes as well and we learn from them.
+10:09
+Therefore, the question is how well can LLMs learn
+10:14
+and adapt from past encounters of similar problems.
+10:19
+Although we say that chatbots have trouble learning and adapting
+10:25
+sometimes, it actually does, but not in quite a way that is flexible.
+10:29
+For example, if a chatbot is pre-conditioned with questions that
+10:34
+where the answer is always A, it repeats this for the next question
+10:39
+without analysing the question in detail
+10:44
+and even hallucinate an explanation for it.
+10:46
+This is what is known as false logic.
+10:50
+The issue is problematic
+10:54
+because the explanation provided can feel very real, but it isn’t.
+10:56
+Reflecting on this, in relation to what we have discussed
+11:02
+in an earlier lecture on the need for models to be interpretable
+11:06
+especially in scenarios that demand accuracy, reliability and transparency
+11:10
+we cannot expect the output from LLMs to be always accurate
+11:16
+but such experiments make us aware
+11:21
+of the biases that are present in chatbots
+11:24
+and find ways to improve on their interpretability.
+11:26
+More importantly, it helps us gather a sense of how LLMs acquire language
+11:31
+their ability for thought, and how similar they are to us.
+11:37
+But even though we can manipulate and observe LLM behaviours
+11:43
+is there a way to understand the inner workings of the system?
+11:48
+Remember that in our earlier lectures, we have seen that LLMs evolved
+11:52
+from basic n-grams, neural networks, and transformer architectures.
+11:57
+If we can uncover patterns of machine activity
+12:03
+in relation to linguistic behaviours
+12:06
+then we are essentially scanning the brains of LLMs
+12:09
+over and on top of understanding their psychology.
+12:13
+How to do this?
+12:17
+In this work by Zou and colleagues
+12:20
+they conduct what is called representation engineering
+12:23
+which is to measure neural activity in relation to linguistic behaviors.
+12:27
+Here, they examine dishonest LLM behaviours
+12:32
+which have real-world implications.
+12:36
+From the figure, the first step is to design an experiment
+12:39
+similar to what we have discussed, treating LLMs as human subjects.
+12:43
+Essentially, the key manipulation is two conditions
+12:49
+where in one condition, the machine is prompted to be dishonest
+12:52
+and opposite in the other.
+12:57
+Next, statistical models are constructed
+13:00
+to extract the machine’s neural activity
+13:03
+in relation to their linguistic behaviours.
+13:05
+The output of these models, which are termed reading vectors
+13:09
+can then be used to monitor and predict the
+13:13
+honesty level of subsequent LLM behaviours.
+13:16
+The design of this pipeline is intriguing
+13:21
+as it brings together the disciplines of Linguistics and Psychology
+13:24
+i.e. designing the behavioural experiment
+13:28
+as well as statistics to model the inner working of the linguistics behaviours.
+13:32
+It also highlights the potential of undertaking interdisciplinary efforts
+13:38
+for real-world applications.
+13:43
+And it may well be the case that lie detection in machines
+13:45
+can be more accurate and reliable than in humans
+13:49
+given the higher precision in their cognitive architecture.
+13:52
+That said, each present their own unique challenges
+13:57
+and innovations like this help us keep track of model performance
+14:01
+even as newer models of LLMs roll out.
+14:05
+Having seen the excitement of interdisciplinary experiments
+14:12
+to understand linguistic behaviours and machine intelligence
+14:15
+and their potential for real-world benefits
+14:20
+it is not always the case that disciplines of interest
+14:23
+can easily align with one another.
+14:26
+What this means is that there are fundamental challenges
+14:29
+when it comes to interdisciplinary integration
+14:33
+behind the scenes of cutting edge LLM research.
+14:36
+In a review by Embick and Poeppel published
+14:41
+in Language, Cognition and Neuroscience
+14:44
+they considered what it takes for an integrated approach to study language
+14:47
+that is rooted in theoretical, experimental, and neurobiological enquiry.
+14:51
+Here, the problem is that individual
+14:58
+disciplines like linguistics and neuroscience
+15:01
+have their own basic concepts such as in the case of linguistics
+15:04
+there are objects like morphemes
+15:08
+and operations like semantic composition, among others.
+15:10
+However, in trying to be interdisciplinary
+15:14
+it is not necessarily the case that an object in one discipline
+15:17
+would map easily onto another.
+15:21
+For instance, a neuroscientist would not be able to find a corresponding neuron
+15:24
+for each and every morpheme that the linguist identifies.
+15:29
+And a linguist would not be able to easily take a particular phrase
+15:34
+and find a corresponding neuroscience unit either.
+15:38
+Therefore, the challenge of interdisciplinary science requires us to consider
+15:43
+how to find common ground between disciplines
+15:49
+to connect the theories across disciplines.
+15:52
+Similarly, in this comment published in 1999, which is dated in today’s terms
+15:56
+Gibbs and Matlock cautioned psychologists and linguists on the overreliance
+16:03
+of psychological experiments alone in studying the nature of language.
+16:08
+Yet, when we apply the scientific approach
+16:13
+we rely on a fair number of intuitions and looking at today
+16:17
+it is no doubt that these intuitions have helped us form
+16:21
+a systematic understanding of how language works
+16:25
+and what is human about it.
+16:29
+Looking back at the beginning of this video on whether
+16:33
+human-like machine intelligence is now the reality
+16:36
+perhaps what Chen and colleagues put forth
+16:40
+is applying an interdisciplinary framework
+16:43
+to understand LLMs from an alternative angle
+16:46
+by considering whether there is value in equating machine
+16:50
+and human intelligence and finding a common ground
+16:53
+for what is general intelligence.
+16:57
+On whether there is value equating human and machine intelligence
+17:01
+they argue that a review of current objections to GI in LLMs
+17:05
+noting that when LLMs first made debut in the human world
+17:10
+people were skeptical of how human they can be.
+17:15
+And here are some of these objections that people have about LLMs.
+17:19
+I would like you to pick one of them, reflect
+17:23
+and share your thoughts on possible counterarguments.
+17:26
+Hint, you may want to think about some modern developments in LLM technology
+17:31
+that are allowing these limitations to be overcome.
+17:36
+As an interdisciplinary effort, try and
+17:41
+see if you can approach these issues using
+17:43
+one or more disciplines of relevance.
+17:46
+Let’s take a look at each of these objections
+17:52
+and how interdisciplinary efforts have changed our assumptions of them.
+17:55
+Firstly, when it is said that LLMs are no more than stochastic parrots
+18:02
+one might also argue that humans are also stochastic parrots
+18:07
+but in a more sophisticated form.
+18:11
+As time progressed, interdisciplinary research
+18:15
+from the angles of linguistics and psychology has revealed
+18:19
+emergent behaviours of LLMs such as debugging program codes
+18:22
+and contextual awareness when given the appropriate prompts.
+18:27
+Secondly, on the point that LLMs lack real world representations
+18:32
+extensive work from the field of statistics and data science
+18:38
+gathering data across thousands of scenarios and across models
+18:42
+has shown that LLMs have improved considerably
+18:47
+in making reasonable predictions under differing circumstances.
+18:50
+Thirdly, although the initial view was that LLMs only understand words
+18:56
+because they are trained on text
+19:02
+modern LLMs are able to handle multimodal tasks
+19:04
+and they are no longer restricted only to training
+19:08
+and responding to linguistic material.
+19:11
+Moving on, the objection of self-agency in LLMs is pertinent
+19:15
+because after all, LLMs act on the prompts we give them
+19:20
+as opposed to initiating and making decisions on their own.
+19:24
+But, as we have seen in the introductory lecture
+19:28
+AI are increasingly deployed in real-world applications
+19:32
+many of which entail moral responsibility
+19:36
+such as in the case of self-driving vehicles.
+19:39
+Presently, psychology researchers are looking at issues
+19:43
+surrounding the moral agency of artificial intelligence
+19:47
+against the bigger concern whether autonomy
+19:51
+is necessary for general intelligence.
+19:53
+Lastly, we all know that LLMs are prone to hallucinations which can be irksome
+19:56
+but psychology has also revealed that we humans make just as many mistakes
+20:02
+remembering and recalling things!
+20:07
+Hence, to get humans and machines to talk to one another
+20:11
+we need to rethink what general intelligence is.
+20:15
+As Chen and colleagues argue
+20:19
+“a definition that excludes essentially all humans
+20:21
+is not a definition of general intelligence.
+20:24
+Rather, general intelligence is about having sufficient breadth
+20:28
+and depth of cognitive abilities.”
+20:33
+The key here is, what is “sufficient”.
+20:36
+Whether this means that AI must overtake us in everything we do
+20:40
+or for them to be able to think and solve within their own limits.
+20:45
+As they go on to argue, general intelligence isn’t about perfection
+20:51
+as neither humans nor AI can be perfect in everything they do.
+20:56
+GI is also not about universality as there are always problems
+21:01
+that cannot be solved even for us humans.
+21:06
+Moreover, a human-like machine is a plus but not necessarily a must
+21:10
+as AI can still be intelligent even though they are not human-like.
+21:16
+Lastly, it is common for AI to be thought of as being superintelligent
+21:21
+for being able to do things that we can’t
+21:26
+but this not a fair criteria of evaluation
+21:29
+because there also a fair number of things
+21:33
+that other species can do that we can’t
+21:35
+and it is not really an issue of one being more intelligent than another
+21:38
+but rather every species having their own
+21:42
+set of specialized skills and knowledge.
+21:44
+Again, take a pause, think about what GI is and isn’t
+21:50
+and share your candid thoughts and arguments
+21:55
+for or against them on the following Miro board.
+21:58
+Also, think about and share some examples or real-world applications
+22:02
+that might elucidate or help to disentangle these issues
+22:07
+and reflect on one another’s ideas.
+22:11
+I look forward to your candid sharing!
+22:14
+To end, it is important to note that these issues about general intelligence
+22:20
+are continuously debated upon
+22:25
+and there is no particular view that triumphs others.
+22:27
+As such, as you put together your own perspectives
+22:31
+see that these issues put forth meaningful challenges
+22:35
+that encourage interdisciplinary integration.
+22:39
+In summary, we have in this video explored
+22:44
+what it means for computers to be human-like
+22:47
+which requires an integration of scientific and interdisciplinary knowledge.
+22:51
+In reviewing the key assumptions that we have encountered across the lectures
+22:57
+we should realise that the study of the cognitive neuroscience of language
+23:02
+cannot be reduced to a simple one-to-one mapping across the disciplines.
+23:07
+Next, understanding how LLM behaves
+23:17
+helps us improve and develop better future models.
+23:21
+By applying methods from psychology
+23:25
+we can scientifically assess machine intelligence.
+23:28
+Lastly, in returning to Alan Turing’s question about whether machines can think
+23:33
+the rapid improvement in the performance of AI necessitates
+23:39
+a reflection of the initial objections to general intelligence in LLM.
+23:43
+More so, a clearer definition of what GI is
+23:49
+can help better evaluate AI competence in the decades to come.
+23:54
+In the next videos, Dr. Nick will walk you through in greater detail
+24:01
+on specific cases and scenarios where computers are potentially human-like
+24:06
+and to what extent they should be.
+24:12
+Also, Prof Vik will share his thoughts on
+24:15
+defining consciousness and intelligence
+24:18
+which will be helpful for you to keep in mind
+24:20
+some of the arguments made in this video.
+24:24
+Consider what we have discussed in this video
+24:28
+as you reflect on the examples and ask what it takes
+24:31
+for humans and machines to talk to one another!
+24:35
